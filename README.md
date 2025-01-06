@@ -9,6 +9,7 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 ## Overview of the project:- 
 
 ## Overall Medal Tally:
+![Image Description](images/Screenshot 2025-01-07 012111.png)
 
 ![image](images/Screenshot 2025-01-07 012111.png)
 
