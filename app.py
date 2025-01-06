@@ -220,6 +220,7 @@
 #     fig.update_layout(autosize=False, width=1000, height=600)
 #     st.plotly_chart(fig)
 
+
 import streamlit as st
 import pandas as pd
 import preprocessor, helper
@@ -436,6 +437,10 @@ if uploaded_file is not None:
 
 else:
     st.error("Please upload athlete_events.csv to proceed.")
+
+
+
+
 
 
 
