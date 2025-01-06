@@ -11,7 +11,7 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 ## Overall Medal Tally:
 ![Image Description](images/Screenshot 2025-01-07 012111.png)
 
-![image](images/Screenshot 2025-01-07 012111.png)
+![image](https://github.com/ashishkumarrajpoot89/Olympics-Analysis-/blob/main/images/Screenshot%202025-01-07%20012111.png)
 
 ## Overall analysis:
 
